@@ -4,10 +4,8 @@
 1
 3
 4
-
-7
-
-8
 9
 0
 New line here
+0
+New line from GitHub
